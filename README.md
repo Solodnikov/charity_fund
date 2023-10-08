@@ -1,7 +1,9 @@
 # charity_fund
 
-<!-- добавить стек и бейджи -->
-<!-- python-dotenv==0.19.2, alembic -->
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQLAlchemy-yellow?style=for-the-badge)
+
 <!-- добавить картинку -->
 
 ### Описание проекта
